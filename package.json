@@ -9,6 +9,11 @@
     "@0x/order-utils": "^10.4.28",
     "@0x/subproviders": "^8.0.1",
     "dayjs": "^1.11.12",
+    "env-cmd": "^10.1.0",
     "ethers": "^6.13.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
   }
 }
